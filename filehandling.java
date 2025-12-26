@@ -1,7 +1,6 @@
 import java.io.*;
 
 
-
 public class FileHandlingUtility {
 
     private static final String FILE_NAME = "sample.txt";
